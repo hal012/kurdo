@@ -1,1 +1,1 @@
-# kurdo
+# kurje
